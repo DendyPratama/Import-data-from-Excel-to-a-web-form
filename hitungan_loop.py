@@ -3,4 +3,4 @@ while(x<10):
     print("\33[92m",x,"Success") 
     x = x + 1
 
-#push
+#push lagi
